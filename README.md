@@ -42,3 +42,5 @@ on mac
 ```
 source deactivate
 ```
+
+You can now select this environment in jupyter lab/notebook
