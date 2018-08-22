@@ -1,4 +1,4 @@
-name: timeseries_learn_cpu
+name: timeseries_learn
 channels:
   - conda-forge
   - defaults
@@ -14,7 +14,7 @@ dependencies:
   - scikit-learn=0.19
   - scipy=1.1
   - seaborn=0.8
+  - peakutils=1.2
   - pip:
     - keras==2.1.5
-    - tensorboard==1.6.0
-    - tensorflow==1.6.0 # won't work unless you have a gpu
+    - tensorflow==1.6
