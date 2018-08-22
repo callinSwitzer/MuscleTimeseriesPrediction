@@ -1,4 +1,4 @@
-name: timeseries_learn
+name: timeseries_learn_gpu
 channels:
   - conda-forge
   - defaults
