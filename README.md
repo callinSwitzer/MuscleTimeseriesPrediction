@@ -10,13 +10,13 @@ Predict muscle length from EMG data
 If you want to use tensorflow with cpu
 
 ```
-conda env create environment_cpu.yml
+conda env create -f environment_cpu.yml
 ```
 
 GPU version:
 
 ```
-conda env create environment.yml
+conda env create -f environment.yml
 ```
 3. Activate the new environment 
 
