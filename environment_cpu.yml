@@ -17,4 +17,3 @@ dependencies:
   - peakutils=1.2
   - pip:
     - keras==2.1.5
-    - tensorflow==1.6
