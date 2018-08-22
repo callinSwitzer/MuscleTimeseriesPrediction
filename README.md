@@ -21,7 +21,7 @@ conda env create environment.yml
 3. Activate the new environment 
 
 ```
-activate timeseries_learn
+activate timeseries_learn_cpu
 ```
 
 on mac
